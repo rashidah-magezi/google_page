@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{ display: flex;
+    justify-content: space-around;
+    background-color: white;
+    height: 100px;
+    align-items: center;
+}
+ul{
+    display: flex;
+    list-style-type: none;
+}
+    ul li{
+    padding: 0 20px;
+}
+.googlepage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
